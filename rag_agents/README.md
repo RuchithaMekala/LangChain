@@ -18,8 +18,8 @@ Makesure you have OpenAI API key with you in .env file. Maintain the file in you
 1. Create a virtual environment:
 
    ```bash
-   python3 -m venv ~/.venvs/aienv
-   source ~/.venvs/aienv/bin/activate
+   python3 -m venv ~/.venvs/rag_llm
+   source ~/.venvs/rag_llm/bin/activate
 
 2. Install all the requirements:
 
