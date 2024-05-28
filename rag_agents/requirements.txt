@@ -1,0 +1,17 @@
+openai
+langchain
+streamlit
+langchain_community
+dotenv
+langchain_openai
+load_dotenv
+wikipedia
+langchain_core
+bs4
+pypdf
+faiss-cpu
+beautifulsoup4
+arxiv
+langchainhub
+sentence_transformers
+PyPDF2
